@@ -1,5 +1,5 @@
 <h1 align="center">
-   High Skilled Full-Stack Engineer
+   Highly Skilled Full-Stack Engineer
 <h1>
 <table>
   <tr>
