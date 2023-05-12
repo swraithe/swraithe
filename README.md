@@ -1,5 +1,5 @@
 <h1 align="center">
-   Highly Skilled Full-Stack Engineer
+   Web Developer with React, Vue, Node, Laravel 
 <h1>
 <table>
   <tr>
