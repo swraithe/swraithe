@@ -9,12 +9,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
-     <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
   </tr>
