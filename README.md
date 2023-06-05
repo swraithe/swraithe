@@ -1,5 +1,5 @@
 <h1 align="center">
-   Web Developer with React, Vue, Node, Laravel 
+   Full Stack Developer
 <h1>
 <table>
   <tr>
