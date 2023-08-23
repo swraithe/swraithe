@@ -1,5 +1,5 @@
 <h1 align="center">
-   Swraithe Team with Full Stack
+   Swraithe Team with Modern Technology
 <h1>
 <table>
   <tr>
