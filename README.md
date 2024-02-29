@@ -1,5 +1,5 @@
 <h1 align="center">
-   Xirate Techie with Modern Technology
+   Xirates Techie with Modern Technology
 <h1>
 <table>
   <tr>
