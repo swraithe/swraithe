@@ -1,5 +1,5 @@
 <h1 align="center">
-   Swraithe Team with Modern Technology
+   Xirate Techie with Modern Technology
 <h1>
 <table>
   <tr>
