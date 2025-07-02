@@ -1,32 +1,57 @@
-<h1 align="center">
-   Xirates Techie with Modern Technology
-<h1>
-<table>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
-  </tr>
- </table>
+<h1 align="center">🚀 Xirates Techie</h1>
+<p align="center">
+  <i>Web • Mobile • AI — built with precision and purpose.</i>
+</p>
 
-<div align="center">
-  <!-- <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/alchemist0404/alchemist0404?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/alchemist0404?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/alchemist0404?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/alchemist0404?style=flat-square&color=black&logo=github">
-  </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
-</div>
+---
+
+## 👋 About Me
+
+I’m a solo full-stack developer passionate about solving real-world problems with clean code and smart technology. Operating as **Xirates Techie**, I build apps, platforms, and AI-powered tools that scale.
+
+💡 I work end-to-end — from idea to deployment — and specialize in:
+
+- Full-stack app development (frontend + backend)
+- AI integrations and workflow automation
+- Cross-platform mobile apps
+- MVPs for startups and rapid prototyping
+
+---
+
+## 🔧 Tech Toolbox
+
+**Frontend:**  
+React • Vue • Angular • TailwindCSS • Next.js • JavaScript • TypeScript
+
+**Backend:**  
+Node.js • Express • Laravel • REST APIs • MySQL • MongoDB • PostgreSQL
+
+**AI & Automation:**  
+OpenAI • LangChain • ChatGPT API • Python • Zapier • Make.com
+
+**Mobile:**  
+React Native • Flutter • Kotlin • Swift
+
+**DevOps & Tools:**  
+Git • Docker • Vercel • DigitalOcean • Firebase • GitHub Actions
+
+---
+
+## 📈 Highlights
+
+- ✅ Launched production apps for SMEs and agencies
+- 🤖 Embedded ChatGPT into customer support and content tools
+- ⚙️ Automated workflows across CRM, SEO, and email systems
+- 📱 Delivered mobile-first UIs with offline-first functionality
+- 🧩 Modularized and merged legacy codebases into new architectures
+
+---
+
+## 🌍 Let’s Build Something
+
+I’m available for freelance work, collaborations, or joining the right project.
+
+- 🌐 Website: [xirates.tech](https://xirates.tech) *(or insert your site)*
+- 📬 Email: `hello@xirates.tech`
+
+---
