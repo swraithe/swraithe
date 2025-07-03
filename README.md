@@ -51,7 +51,7 @@ Git • Docker • Vercel • DigitalOcean • Firebase • GitHub Actions
 
 I’m available for freelance work, collaborations, or joining the right project.
 
-- 🌐 Website: [xirates.tech](https://xirates.tech) *(or insert your site)*
-- 📬 Email: `hello@xirates.tech`
+- 🌐 Website: [xirates.nas](https://nasolution.netlify.app)
+- 📬 Email: `xirates.contact@gmail.com`
 
 ---
